@@ -1,12 +1,3 @@
-### Домашнее задание "Классы"
-
-> **Важно:** импортируйте модули и классы относительно корня проекта, а не папки с домашкой. 
-> То есть импорт исключений должен выглядеть так `from homework_02.exceptions import LowFuelError, NotEnoughFuel` 
-> или так `from homework_02 import exceptions`,
-> (а не так `from exceptions import LowFuelError, NotEnoughFuel`, и не так `import exceptions`).
-> 
-> Соответственно, импорт других классов тоже будет выглядеть так `from homework_02.base import Vehicle`, 
-> **но не так** `from base import Vehicle`.
 
 #### Задача:
 - скопируйте папку `homework_02` для этой домашки (Памятка: https://github.com/OtusTeam/BasePython/tree/homeworks)
