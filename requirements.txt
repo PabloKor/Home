@@ -5,4 +5,14 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 Werkzeug==2.0.1
-SQLAlchemy==1.4.12
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+chardet==4.0.0
+greenlet==1.1.0
+idna==3.2
+multidict==5.1.0
+SQLAlchemy==1.4.18
+typing-extensions==3.10.0.0
+yarl==1.6.3
+
